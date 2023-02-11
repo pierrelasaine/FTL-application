@@ -103,7 +103,6 @@ body {
       margin: 10%;
     }
       .my-picture {
-        flex 2;
         flex-basis: 25%;
       }
         #me {
@@ -111,7 +110,6 @@ body {
           border-radius: 10%;
         }
       .line-2 {
-        flex 1;
         flex-basis: 4%;
       }
         #line-2 {
@@ -119,7 +117,6 @@ body {
           height: 100%;
         }
       .big-text {
-        flex 5;
         flex-basis: 60%;
       }
         .big-text h1{
@@ -267,9 +264,6 @@ body {
     max-height: 50px;
     justify-content: center;
   }
-    .footer-message {
-      
-    }
       .footer-message p{
         font-family: sans-serif;
         font-style: normal;
